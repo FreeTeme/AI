@@ -1,0 +1,6 @@
+aiogram==2.14
+requests==2.30.0
+openai
+requests
+logging
+json
