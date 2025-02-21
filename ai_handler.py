@@ -3,7 +3,7 @@ import logging
 import json
 
 API_URL = 'https://api.perplexity.ai/chat/completions'
-API_KEY = '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'
+API_KEY = 'вставьте сюда ваш токен'
 
 logging.basicConfig(level=logging.INFO)
 
